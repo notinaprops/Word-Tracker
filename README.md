@@ -2,6 +2,8 @@ Novel Progress — Übersicht Widget
 
 A minimal, beautiful desktop widget for tracking your novel's word count. Lives quietly in the corner of your screen and cheers you on every time you write.
 
+<img src="screenshot.png" alt="Novel Progress Widget" width="516" height="320" />
+
 ## Features
 
 - **Word count input** with a satisfying paper-airplane "Done" button and ripple animation
@@ -24,10 +26,10 @@ A minimal, beautiful desktop widget for tracking your novel's word count. Lives 
 
 The widget appears in the top left of your desktop by default. To move it to the left, open "Word Tracker.coffee" and change:
 
-# In style:
+In style:
 right: 20px --> left: 20px
 
-# In afterRender:
+In afterRender:
 domEl.style.right = '20px'  -->  domEl.style.left  = '20px'
 domEl.style.left  = 'auto'  -->  domEl.style.right = 'auto'
 
