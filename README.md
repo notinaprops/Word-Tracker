@@ -16,7 +16,7 @@ What it does:
   - Custom novel title
   - Manuscript total
   - Daily or weekly word goal (pill toggle)
-  - 6 color palettes: Ink, Midnight, Sage, Dusk, Caramel, Slate
+  - 6 color palettes: Paper, Midnight, Sage, Dusk, Caramel, Slate
   - Transparency slider (30–100%)
 - All settings and word count persist via "localStorage"
 
