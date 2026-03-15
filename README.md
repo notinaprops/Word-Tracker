@@ -39,7 +39,7 @@ In afterRender:
 ## Requirements
 
 - [Übersicht](https://tracesof.net/uebersicht/) for macOS
-Ensure you move the app icon into your Applications folder. It may open only in the upper menu bar. You can access the widgets and folders there.
+<br>Ensure you move the app icon into your Applications folder. It may open only in the upper menu bar. You can access the widgets and folders there.
 
 ## Author
 
