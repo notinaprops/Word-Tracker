@@ -45,4 +45,4 @@ Ensure you move the app icon into your Applications folder. It may open only in 
 
 Built by Me
 https://github.com/notinaprops
-Reddit: u/not_inappropriate 
+<br>Reddit: u/not_inappropriate 
