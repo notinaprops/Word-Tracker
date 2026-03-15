@@ -6,17 +6,19 @@ A minimal, beautiful desktop widget for tracking your novel's word count. Lives 
 
 ## Features
 
-- **Word count input** with a satisfying paper-airplane "Done" button and ripple animation
-- **Progress bar**, % complete, and words-to-go — only shown once you set a manuscript total
-- **Est. Completion date** calculated from your daily or weekly word goal
-- **110 rotating writer quotes** — a new one with every update
+What it does:
+- Tracks your total manuscript word count
+- Set a word count goal and watch a progress bar fill up as you get closer
+- Pace calculator available for daily or weekly word counts and it'll predict your estimated finish date
+- Little writing quotes to keep you motivated (they rotate every time you log words)
+- Customizable with multiple colour palettes, adjustable widget opacity, and your novel's title
 - **Settings panel** (gear icon, opens below the card) for:
   - Custom novel title
   - Manuscript total
   - Daily or weekly word goal (pill toggle)
   - 6 color palettes: Ink, Midnight, Sage, Dusk, Caramel, Slate
   - Transparency slider (30–100%)
-- All settings and word count persist via `localStorage`
+- All settings and word count persist via "localStorage"
 
 ## Installation
 
@@ -27,11 +29,11 @@ A minimal, beautiful desktop widget for tracking your novel's word count. Lives 
 The widget appears in the top left of your desktop by default. To move it to the left, open "Word Tracker.coffee" and change:
 
 In style:
-right: 20px --> left: 20px
+<br>right: 20px --> left: 20px
 
 In afterRender:
-domEl.style.right = '20px'  -->  domEl.style.left  = '20px'
-domEl.style.left  = 'auto'  -->  domEl.style.right = 'auto'
+<br>domEl.style.right = '20px'  -->  domEl.style.left  = '20px'
+<br>domEl.style.left  = 'auto'  -->  domEl.style.right = 'auto'
 
 
 ## Requirements
