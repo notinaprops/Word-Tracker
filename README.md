@@ -2,7 +2,7 @@ Novel Progress — Übersicht Widget
 
 A minimal, beautiful desktop widget for tracking your novel's word count. Lives quietly in the corner of your screen and cheers you on every time you write.
 
-<img src="screenshot.png" alt="Novel Progress Widget" width="516" height="320" />
+<img src="Screenshot 1.png" alt="Novel Progress Widget" width="516" height="320" />
 
 ## Features
 
