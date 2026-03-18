@@ -26,6 +26,8 @@ What it does:
 2. Open Übersicht --> Open Widget Folder (or find the folder manually "~/Library/Application Support/Übersicht/widgets/")
 3. In the Übersicht menu bar, choose **Refresh All Widgets**
 
+## Move Widget
+
 The widget appears in the top left of your desktop by default. To move it to the left, open "Word Tracker.coffee" and change:
 
 In style:
